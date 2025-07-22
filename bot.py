@@ -21,6 +21,20 @@ class PhishingDetector:
     "discord.com",
     "snapchat.com",
     "whatsapp.com",
+    'web.rubika.ir',
+    'rubika.ir',
+    "eitaa.com",         # پیغام‌رسان ایتا :contentReference[oaicite:1]{index=1}
+    "splus.ir",   
+    "bale.ai",           # بله
+    "gap.im",            # گپ
+    "igap.net",          # آی‌گپ :contentReference[oaicite:4]{index=4}
+    "wispi.ir",          # ویسپی
+    "bisphone.ir",       # بیسفون
+    "chatzi.ir",         # چتزی
+    "novachat.ir",       # نوا
+    "hedhed.ir",         # هدهد
+    "ring.ir",           # رینگ
+    "balont.ir",         # بالونت  
 
     # 📧 سرویس‌های ایمیل و کلاد
     "gmail.com",
